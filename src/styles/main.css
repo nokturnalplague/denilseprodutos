@@ -1,0 +1,12 @@
+/* Utilities */
+@import url('./utilities/vars.css');
+@import url('./utilities/colors.css');
+@import url('./utilities/typo.css');
+@import url('./utilities/components.css');
+
+/* Global */
+@import url('./global/global.css');
+@import url('./global/header.css');
+@import url('./global/footer.css');
+
+/* Home */
